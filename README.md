@@ -35,3 +35,9 @@ You can also specify the save destination using the flag ```-d```
 python get_models.py -e hierarchy -s 918 -d ./dst
 ```
 
+### LMDB generation toolkit (coming soon)
+Training a network by passing in images sequentially often becomes a bottleneck in training.
+We provide a simple toolkit to generate LMDB
+```
+coming soon
+```
