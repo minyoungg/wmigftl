@@ -1,11 +1,11 @@
-# What makes ImageNet good for Transfer Learning?
+## What makes ImageNet good for Transfer Learning?
 This code provides a script to download our trained models for our paper 'What makes ImageNet good for Transfer Learning?'
 You can find our paper at https://arxiv.org/abs/1608.08614 or visit our [project page](https://www.minyounghuh.com/paper/analysis)
 
-# Requirements
+### Requirements
 + Python 2.4 or Python 3.0+
 
-# Running the script
+### Running the script
 To download all our models run the code. 
 ```
 python get_models.py
