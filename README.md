@@ -29,7 +29,7 @@ To go one step further and select a specific experiment you can pass the flag ``
 python get_models.py -e hierarchy -s 918
 ```
 
-You can also specify the destination to save the models using the flag ```-d```
+You can also specify the save destination using the flag ```-d```
 ```
 # Save the specific model on the destination ./dst
 python get_models.py -e hierarchy -s 918 -d ./dst
