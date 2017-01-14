@@ -1,0 +1,26 @@
+{
+    "base_url": "http://www.minyounghuh.com/papers/analysis/model/",
+    "flags": {
+        "class": {
+            "125": "125.tar",
+            "250": "250.tar",
+            "50": "50.tar",
+            "500": "500.tar"
+        },
+        "hierarchy": {
+            "127": "127.tar",
+            "486": "486.tar",
+            "753": "753.tar",
+            "79 ": "79.tar",
+            "9": "9.tar",
+            "918": "918.tar"
+        },
+        "pascal_removed": "pascal_removed.tar",
+        "split": {
+            "minA": "minA.tar",
+            "minB": "minB.tar",
+            "ranA": "ranA.tar",
+            "ranB": "ranB.tar"
+        }
+    }
+}

@@ -28,6 +28,7 @@ def download(model_url, save_dir):
         status = r"%10d  [%3.2f%%]" % (file_size_dl, file_size_dl * 100. / file_size)
         status = status + chr(8)*(len(status)+1)
         print status,
+        break
     f.close()
 
 
@@ -65,6 +66,7 @@ if __name__ == '__main__':
                     for s in e.values():
                         to_download.append(os.path.join(metafile_base_url, s))
 
+    print to_download
     save_dir = args.directory if args.directory else './models'
 
     if not os.path.exists(save_dir):
@@ -80,3 +82,5 @@ if __name__ == '__main__':
             print 'Request rejected, the server may be down, try again later.'
             continue
         download(url, save_dir)
+
+    #main()
