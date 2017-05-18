@@ -3,9 +3,10 @@ This code provides a script to download our trained models for our paper 'What m
 You can find our paper at https://arxiv.org/abs/1608.08614 or visit our [project page](http://www.minyounghuh.com/papers/analysis/)
 
 ### Requirements
-+ Python 2.4 or Python 3.0+
++ Python 2.7
++ nltk (optional)
 
-### Running the script
+### Downloading trained models
 To download all our models run the code. 
 ```
 python get_models.py
@@ -34,6 +35,7 @@ You can also specify the save destination using the flag ```-d```
 # Save the specific model on the destination ./dst
 python get_models.py -e hierarchy -s 918 -d ./dst
 ```
+
 ### Label set generator and WordNet tools
 We provide the code to generate the label sets mentioned in the hierarchy experiments.  
 
@@ -48,13 +50,15 @@ python make_labels.py
 ```
 
 You can also specify the experiment
-
 ``` 
 # By default -e is set to all
 python make_labels.py -e up_down
 python make_labels.py -e down_up
 python make_labels.py -e all 
 ```
+
+### PASCAL experiments
+Common classes shared between PASCAL and ImageNet can be found [here](./label_sets/pascal)
 
 ### LMDB generation toolkit (coming soon)
 Training a network by passing in images sequentially often becomes a bottleneck in training.
