@@ -61,8 +61,8 @@ python make_labels.py -e all
 Common classes shared between PASCAL and ImageNet can be found [here](./label_sets/pascal)
 
 ### LMDB generation toolkit (coming soon)
-Training a network by passing in images sequentially often becomes a bottleneck in training.
-We provide a simple toolkit to generate LMDB
-```
-coming soon
-```
+We will soon provide simple tools to generate LMDB file for Caffe
+
+### Experiment Setup (coming soon)
+We will soon release helper code to setup experiment for arbitrary network models.
+ResNet-34 models for the experiments above will be released soon.
