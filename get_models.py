@@ -1,7 +1,7 @@
 import urllib2, os, httplib, json, argparse
 
 def load_metafile():
-    with open('meta.json', 'r') as fp:
+    with open('metadata.json', 'r') as fp:
         data = json.load(fp)
     return data
 

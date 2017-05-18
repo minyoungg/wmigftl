@@ -1,0 +1,79 @@
+n04447443 toiletry
+n15074962 tissue
+n09214581 barrier
+n02898711 bridge
+n04191595 shelter
+n03100490 conveyance
+n03050026 cloth covering
+n09428293 seashore
+n03563967 implement
+n09332890 lakeside
+n07679356 bread
+n10565667 scuba diver
+n03252064 drygoods
+n07556970 course
+n03183080 device
+n03380867 footwear
+n07800740 fodder
+n04361095 supporting structure
+n03982060 pool
+n02733524 arch
+n04014297 protective covering
+n06874185 traffic light
+n04605726 wrapping
+n03065424 coil
+n12992868 fungus
+n04377057 system
+n02699494 altar
+n09406793 reef
+n03151500 cushion
+n03171356 defensive structure
+n02681518 adornment
+n03294048 equipment
+n10401829 participant
+n03388043 fountain
+n04599235 wool
+n07929519 coffee
+n03546340 housing
+n07557434 dish
+n13899404 ball
+n03839993 obstruction
+n07884567 alcohol
+n03091374 connection
+n02735688 area
+n09468604 valley
+n03094503 container
+n03093574 consumer goods
+n04399382 teddy
+n09193705 alp
+n04525038 velvet
+n09399592 promontory
+n02856463 board
+n04460130 tower
+n09835506 ballplayer
+n07882497 concoction
+n03536348 horizontal surface
+n07707451 vegetable
+n06794110 street sign
+n09472597 volcano
+n07809096 ingredient
+n03297735 establishment
+n03724870 mask
+n03743902 memorial
+n02914991 building complex
+n03638321 landing
+n02913152 building
+n00017222 plant
+n06254669 medium
+n03074380 column
+n00015388 animal
+n04151940 screen
+n09246464 cliff
+n13087625 plant organ
+n03405265 furnishing
+n07565083 menu
+n03932670 piece of cloth
+n03366823 floor cover
+n04453910 top
+n03045698 cloak
+n09288635 geyser

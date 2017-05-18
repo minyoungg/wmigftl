@@ -1,0 +1,36 @@
+n03575240 instrumentality
+n03302121 excavation
+n09428293 seashore
+n06794110 street sign
+n03169390 decoration
+n03309808 fabric
+n04341686 structure
+n09332890 lakeside
+n09468604 valley
+n07800091 feed
+n09246464 cliff
+n07566340 foodstuff
+n03122748 covering
+n07560652 fare
+n09816771 associate
+n03076708 commodity
+n09349797 mechanism
+n09409512 ridge
+n09359803 mountain
+n09399592 promontory
+n06874019 light
+n00004475 organism
+n03964744 plaything
+n14974264 paper
+n07622061 baked goods
+n07570720 nutriment
+n07705711 produce
+n04188643 sheet
+n09820263 athlete
+n04362025 surface
+n03873064 padding
+n10019552 diver
+n07881800 beverage
+n13086908 plant part
+n13899200 sphere
+n09288635 geyser

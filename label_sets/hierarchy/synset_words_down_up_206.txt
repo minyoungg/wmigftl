@@ -1,0 +1,206 @@
+n04411264 tent
+n07683786 loaf of bread
+n03113152 cosmetic
+n04336034 strengthener
+n03597469 jewelry
+n03743016 megalith
+n04081281 restaurant
+n02978881 cassette
+n11675842 reproductive structure
+n03574555 institution
+n03956922 plant
+n03391770 framework
+n03128519 cream
+n02796623 barrier
+n07734744 mushroom
+n03956157 planetarium
+n09246464 cliff
+n07565083 menu
+n02801938 basket
+n03916031 perfume
+n07730033 cardoon
+n04181718 shade
+n12997654 basidiomycete
+n03207743 dishrag
+n04576211 wheeled vehicle
+n03405725 furniture
+n03278248 electronic equipment
+n13037406 gyromitra
+n09399592 promontory
+n04151581 screen
+n04317420 stick
+n04451818 tool
+n03724870 mask
+n07873807 pizza
+n04360501 support
+n03320046 fan
+n07583197 soup
+n04366367 suspension bridge
+n04019101 public transport
+n03776460 mobile home
+n03051540 clothing
+n07579575 entree
+n02946921 can
+n13052670 hen-of-the-woods
+n04486054 triumphal arch
+n02676261 acoustic device
+n04100174 rod
+n04284002 spoon
+n03485794 handkerchief
+n04060904 receptacle
+n04199027 shoe
+n07860988 dough
+n07875152 potpie
+n09428293 seashore
+n04311004 steel arch bridge
+n04524313 vehicle
+n03414162 game equipment
+n03339643 filter
+n03699975 machine
+n03210683 dispenser
+n04201297 shoji
+n03078287 communication system
+n07710283 root vegetable
+n03666591 lighter
+n04118021 rug
+n09468604 valley
+n04192858 shield
+n10565667 scuba diver
+n02883344 box
+n02755352 attachment
+n03926148 photographic equipment
+n09256479 coral reef
+n03388043 fountain
+n03457902 greenhouse
+n02872752 boot
+n04185071 sharpener
+n03961939 platform
+n03291819 envelope
+n09332890 lakeside
+n03859280 outbuilding
+n04399382 teddy
+n07809368 flavorer
+n04285622 sports implement
+n03953020 place of business
+n02820210 bedclothes
+n03738472 mechanism
+n07718747 artichoke
+n04139859 savings bank
+n03678362 litter
+n02839910 bin
+n04105068 roof
+n03690938 lotion
+n09472597 volcano
+n04531098 vessel
+n13040303 stinkhorn
+n03664675 lifting device
+n03991062 pot
+n06874185 traffic light
+n02727825 apparatus
+n03661043 library
+n03269401 electrical device
+n04149813 scoreboard
+n03259505 dwelling
+n03035510 cistern
+n02851099 blind
+n07891726 wine
+n02688443 airfoil
+n02855089 blower
+n02955065 cap
+n07715561 squash
+n06263609 print media
+n07680932 bun
+n03929660 pick
+n03257877 durables
+n04074963 remote control
+n02974697 case
+n02895606 breathing device
+n07681926 cracker
+n07920052 espresso
+n03216828 dock
+n07911371 mixed drink
+n13044778 earthstar
+n03047690 clog
+n02892201 brass
+n03717622 manhole cover
+n13054560 bolete
+n07718472 cucumber
+n03727837 mat
+n03237639 dressing
+n03800933 musical instrument
+n04599235 wool
+n04459362 towel
+n03544360 house
+n03277771 electronic device
+n04183329 shaker
+n03322570 farm building
+n09193705 alp
+n04077734 rescue equipment
+n03476991 hair spray
+n07880968 burrito
+n02834397 bib
+n06794110 street sign
+n03837422 oar
+n13083586 vascular plant
+n03574816 instrument
+n04532670 viaduct
+n07710007 solanaceous vegetable
+n07712382 snack food
+n03039947 cleaning implement
+n03438257 glass
+n04608567 writing implement
+n02730265 applicator
+n07713395 cruciferous vegetable
+n03206908 dish
+n02840245 binder
+n03590306 jacket
+n03385557 fortification
+n04525038 velvet
+n12985857 coral fungus
+n03871083 package
+n02773037 bag
+n02788689 bar
+n03938244 pillow
+n04263760 source of illumination
+n04417809 theater
+n03733644 measure
+n04516672 utensil
+n01466257 chordate
+n02739668 armor
+n03065424 coil
+n09289709 globule
+n02699494 altar
+n03837869 obelisk
+n04120093 runner
+n07588947 stew
+n09288635 geyser
+n02954938 cap
+n03953416 place of worship
+n03508101 heater
+n09835506 ballplayer
+n04187061 sheath
+n03430959 gear
+n03744840 memory device
+n04458633 totem pole
+n07871810 meat loaf
+n03614007 keyboard
+n15075141 toilet tissue
+n03899768 patio
+n03733281 maze
+n04580298 white goods
+n09214060 bar
+n04081844 restraint
+n07609840 dessert
+n10148035 groom
+n04191943 shelter
+n04359589 support
+n01905661 invertebrate
+n07802026 hay
+n03294833 eraser
+n04285146 sports equipment
+n03851341 optical device
+n02814860 beacon
+n03725035 mask
+n04069276 reflector
+n04474466 trap
+n03045698 cloak

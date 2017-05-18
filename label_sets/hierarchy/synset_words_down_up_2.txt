@@ -1,0 +1,2 @@
+n00001930 physical entity
+n00002137 abstraction

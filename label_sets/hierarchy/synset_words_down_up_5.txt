@@ -1,0 +1,5 @@
+n00002684 object
+n00020827 matter
+n00024264 attribute
+n00007347 causal agent
+n00033020 communication

@@ -1,0 +1,9 @@
+n06793231 sign
+n09287968 geological formation
+n00027807 shape
+n06791372 signal
+n00019613 substance
+n00020090 substance
+n00007846 person
+n00003553 whole
+n15046900 solid

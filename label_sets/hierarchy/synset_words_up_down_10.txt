@@ -1,0 +1,10 @@
+n00033020 communication
+n07679356 bread
+n13899404 ball
+n09816771 associate
+n00021265 food
+n14974264 paper
+n09613191 contestant
+n10072708 explorer
+n07705711 produce
+n00002684 object

@@ -1,0 +1,486 @@
+n02916936 bulletproof vest
+n03221720 door
+n02978881 cassette
+n03126707 crane
+n07693725 bagel
+n02954340 cap
+n02802426 basketball
+n04044498 radiotelephone
+n03928116 piano
+n01769347 arachnid
+n04131690 saltshaker
+n03535780 horizontal bar
+n03722288 marketplace
+n03877845 palace
+n03099771 converging lens
+n03000247 chain mail
+n03443371 goblet
+n03201208 dining table
+n03710193 mailbox
+n04482393 tricycle
+n03062245 cocktail shaker
+n04532670 viaduct
+n03127925 crate
+n11665372 angiosperm
+n03724870 mask
+n02787622 banjo
+n03467068 guillotine
+n04192698 shield
+n04366367 suspension bridge
+n07615774 ice lolly
+n04243546 slot
+n04486054 triumphal arch
+n09256479 coral reef
+n03930313 picket fence
+n03290653 entertainment center
+n03483316 hand blower
+n07875152 potpie
+n07714571 head cabbage
+n09428293 seashore
+n04370048 sweater
+n04265275 space heater
+n13133613 ear
+n04530566 vessel
+n02835271 bicycle-built-for-two
+n04230808 skirt
+n03961711 plate rack
+n03388043 fountain
+n01924916 flatworm
+n03459775 grille
+n04525038 velvet
+n03196324 digital computer
+n03467517 guitar
+n04275548 spider web
+n07714990 broccoli
+n02321529 sea cucumber
+n02769748 backpack
+n13040303 stinkhorn
+n01473806 aquatic vertebrate
+n03700963 machine
+n03640988 lantern
+n04229816 ski mask
+n03441112 glove
+n03271574 electric fan
+n04149813 scoreboard
+n03017168 chime
+n03388183 fountain pen
+n04074963 remote control
+n04493381 tub
+n02799071 baseball
+n09229709 bubble
+n04023962 punching bag
+n03216828 dock
+n03871628 packet
+n13044778 earthstar
+n02879718 bow
+n03680355 Loafer
+n03637318 lampshade
+n03529860 home theater
+n13135832 seed
+n04590129 window shade
+n03995372 power drill
+n02666196 abacus
+n04033995 quilt
+n02795169 barrel
+n02834397 bib
+n03888605 parallel bars
+n03729826 matchstick
+n03042490 cliff dwelling
+n02980441 castle
+n03627232 knot
+n02880546 bowed stringed instrument
+n02680110 adhesive bandage
+n02988304 CD player
+n02807260 bath linen
+n07584110 consomme
+n04371563 swimsuit
+n03843555 oil filter
+n03896233 passenger train
+n03080497 compass
+n02891188 brake system
+n03249569 drum
+n01503061 bird
+n03111690 correctional institution
+n02783161 ballpoint
+n04404412 television
+n02894605 breakwater
+n03709206 magnifier
+n03840681 ocarina
+n04033901 quill
+n02317335 starfish
+n04088797 ride
+n04021798 pump
+n03792972 mountain tent
+n02699494 altar
+n03837869 obelisk
+n04476259 tray
+n04254680 soccer ball
+n03314780 face powder
+n03236735 dress
+n03814639 neck brace
+n02970849 cart
+n04286575 spotlight
+n03887697 paper towel
+n03942813 ping-pong ball
+n02948072 candle
+n04557648 water bottle
+n03661043 library
+n07613480 trifle
+n03527444 holster
+n03697007 lumbermill
+n04228054 ski
+n03241093 drill rig
+n03877472 pajama
+n04040759 radiator
+n12267677 acorn
+n01661091 reptile
+n04332243 strainer
+n03000134 chainlink fence
+n03924679 photocopier
+n03163973 data input device
+n03743016 megalith
+n13052670 hen-of-the-woods
+n03125729 cradle
+n04515129 upright
+n02977058 cash machine
+n07734744 mushroom
+n03868863 oxygen mask
+n09246464 cliff
+n07565083 menu
+n03916031 perfume
+n04046974 rail fence
+n07920052 espresso
+n03982430 pool table
+n04152593 screen
+n04041544 radio
+n02777292 balance beam
+n03014705 chest
+n04153751 screw
+n04073948 religious residence
+n03481172 hammer
+n01955084 chiton
+n04525305 vending machine
+n03476083 hairpiece
+n04550184 wardrobe
+n04141975 scale
+n04272054 spectacles
+n03513137 helmet
+n03935335 piggy bank
+n02740764 armor plate
+n03776460 mobile home
+n03854065 organ
+n04116512 rubber eraser
+n03793489 mouse
+n07930864 cup
+n03485794 handkerchief
+n03895866 passenger car
+n04330267 stove
+n04447861 toilet seat
+n07614500 ice cream
+n03804744 nail
+n04201297 shoji
+n03676483 lipstick
+n10565667 scuba diver
+n04485082 tripod
+n09421951 sandbar
+n03649909 lawn mower
+n03457902 greenhouse
+n04392985 tape player
+n03899768 patio
+n02859443 boathouse
+n03633091 ladle
+n03657121 lens cap
+n03786901 mortar
+n09193705 alp
+n03742115 medicine chest
+n03773504 missile
+n02708224 analog computer
+n07695742 pretzel
+n04487081 trolleybus
+n04336792 stretcher
+n03146219 cuirass
+n03445777 golf ball
+n06874185 traffic light
+n03983396 pop bottle
+n04579432 whistle
+n02827606 belt
+n02823428 beer bottle
+n04464852 tracked vehicle
+n03393912 freight car
+n03623198 knee pad
+n02910353 buckle
+n03764736 milk can
+n04591713 wine bottle
+n04028315 puzzle
+n03274561 electro-acoustic transducer
+n03902125 pay-phone
+n03717622 manhole cover
+n02971356 carton
+n03735637 measuring stick
+n13054560 bolete
+n07718472 cucumber
+n01968315 cephalopod
+n03938244 pillow
+n04456115 torch
+n03769881 minibus
+n06794110 street sign
+n04026417 purse
+n04258138 solar dish
+n03763968 military uniform
+n03016953 chiffonier
+n03445924 golfcart
+n03958227 plastic bag
+n07892512 red wine
+n01768244 trilobite
+n03001627 chair
+n03497657 hat
+n04077430 reproducer
+n06595351 magazine
+n04204238 shopping basket
+n02818832 bed
+n07248320 book jacket
+n02843684 birdhouse
+n03530642 honeycomb
+n12998815 agaric
+n04209239 shower curtain
+n04039381 racket
+n04598582 woodwind
+n03956157 planetarium
+n13037406 gyromitra
+n03733805 measuring cup
+n03218198 dogsled
+n04458633 totem pole
+n07871810 meat loaf
+n15075141 toilet tissue
+n04296562 stage
+n04508163 undergarment
+n03888257 parachute
+n02965783 car mirror
+n03032252 cinema
+n03908618 pencil box
+n03427296 gate
+n03803284 muzzle
+n07715103 cauliflower
+n02841315 binoculars
+n01942177 gastropod
+n04509417 unicycle
+n04204347 shopping cart
+n04154565 screwdriver
+n03721384 marimba
+n03720891 maraca
+n07730033 cardoon
+n04372370 switch
+n03682487 lock
+n04326547 stone wall
+n04251144 snorkel
+n07716358 zucchini
+n07932039 eggnog
+n06359193 web site
+n07873807 pizza
+n03384352 forklift
+n03825788 nipple
+n03532672 hook
+n04118538 rugby ball
+n04380533 table lamp
+n07860988 dough
+n03816005 neckwear
+n04311004 steel arch bridge
+n07579787 plate
+n07582609 dip
+n03528263 home appliance
+n02727426 apiary
+n03666591 lighter
+n03857828 oscilloscope
+n03940256 pin
+n04553703 washbasin
+n03788195 mosque
+n04125021 safe
+n04489008 trouser
+n03482405 hamper
+n04197391 shirt
+n03291819 envelope
+n04264914 spacecraft
+n04078574 reservoir
+n07717410 acorn squash
+n04004767 printer
+n07717556 butternut squash
+n03690938 lotion
+n02740533 armored vehicle
+n03814906 necklace
+n04097866 robe
+n02891788 brass
+n03908714 pencil sharpener
+n02825657 bell cote
+n03797390 mug
+n02877765 bottlecap
+n04008634 projectile
+n07697537 hotdog
+n07590611 hot pot
+n03355925 flagpole
+n04409515 tennis ball
+n04523525 vault
+n09332890 lakeside
+n03018349 china cabinet
+n03131574 crib
+n03250847 drumstick
+n03255030 dumbbell
+n03775546 mixing bowl
+n02828884 bench
+n04599235 wool
+n04435653 tile roof
+n04141327 scabbard
+n03476991 hair spray
+n04522168 vase
+n04376876 syringe
+n04613696 yurt
+n03788365 mosquito net
+n01627424 amphibian
+n03709823 mailbag
+n03496892 harvester
+n07718747 artichoke
+n02870880 bookcase
+n07697100 hamburger
+n12985857 coral fungus
+n04505470 typewriter keyboard
+n01784675 centipede
+n04589890 window screen
+n04254120 soap dispenser
+n02909870 bucket
+n04263257 soup bowl
+n04346328 stupa
+n09288635 geyser
+n02788148 bannister
+n01914163 anthozoan
+n09835506 ballplayer
+n04423845 thimble
+n04208210 shovel
+n03873416 paddle
+n03424325 gasmask
+n03863923 overgarment
+n02797295 barrow
+n03933933 pier
+n03848348 opener
+n04256520 sofa
+n03603722 jug
+n02814860 beacon
+n03045698 cloak
+n03937543 pill bottle
+n01930112 nematode
+n04540053 volleyball
+n04081281 restaurant
+n03154073 cutter
+n03684823 locomotive
+n04065272 recreational vehicle
+n03970156 plunger
+n04335435 streetcar
+n03207743 dishrag
+n03976657 pole
+n04235860 sleeping bag
+n03998194 prayer rug
+n03223299 doormat
+n04146614 school bus
+n02159955 insect
+n02966687 carpenter's kit
+n04507155 umbrella
+n03478589 half track
+n02906734 broom
+n04597913 wooden spoon
+n03134739 croquet ball
+n02860847 bobsled
+n02804414 bassinet
+n12620546 hip
+n03393324 free-reed instrument
+n07829412 sauce
+n04143897 scarf
+n02793495 barn
+n02730930 apron
+n02815834 beaker
+n04548362 wallet
+n01910747 jellyfish
+n04202417 shop
+n03337140 file
+n04417672 thatch
+n03792782 mountain bike
+n04311174 steel drum
+n03782006 monitor
+n04120489 running shoe
+n09399592 promontory
+n04399382 teddy
+n03188531 diaper
+n03602883 joystick
+n03447721 gong
+n09472597 volcano
+n07716906 spaghetti squash
+n03876231 paintbrush
+n03991062 pot
+n04069434 reflex camera
+n04418357 theater curtain
+n07720615 sweet pepper
+n03028079 church
+n01974773 crustacean
+n03794056 mousetrap
+n02979186 cassette player
+n03929660 pick
+n03032811 circle
+n03043958 clip
+n04277352 spindle
+n02319095 sea urchin
+n03124043 cowboy boot
+n03047690 clog
+n02892201 brass
+n03791053 motor scooter
+n03141823 crutch
+n03540267 hosiery
+n03967562 plow
+n03613592 key
+n03903868 pedestal
+n01861778 mammal
+n03791235 motor vehicle
+n03450516 gown
+n07880968 burrito
+n04133789 sandal
+n02686568 aircraft
+n04350905 suit
+n07711569 mashed potato
+n07684084 French loaf
+n04552696 warship
+n02999410 chain
+n04367480 swab
+n04049303 rain barrel
+n03920288 Petri dish
+n04586421 winder
+n02840245 binder
+n04317175 stethoscope
+n03996145 power saw
+n03777754 modem
+n02808440 bathtub
+n04357314 sunscreen
+n02823750 beer glass
+n04465501 tractor
+n03753077 meter
+n03220513 dome
+n03065424 coil
+n03025886 chordophone
+n02747177 ashcan
+n04592741 wing
+n03467984 gun
+n03101986 cooking utensil
+n04437953 timepiece
+n03347037 fire screen
+n03187595 dial telephone
+n09468604 valley
+n03976467 Polaroid camera
+n02790996 barbell
+n04428191 thresher
+n03733281 maze
+n03179701 desk
+n03950228 pitcher
+n10148035 groom
+n03945615 pipe
+n03160309 dam
+n04009552 projector
+n07802026 hay
+n04371774 swing
+n07705931 edible fruit
+n02794156 barometer
+n03492542 hard disc

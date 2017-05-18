@@ -1,0 +1,17 @@
+n09433442 shore
+n09613191 contestant
+n10072708 explorer
+n14580897 material
+n07555863 food
+n09626238 peer
+n00019128 natural object
+n00021265 food
+n09366017 natural depression
+n09246464 cliff
+n00021939 artifact
+n00004258 living thing
+n06794110 street sign
+n09443453 spring
+n09366317 natural elevation
+n13865483 round shape
+n06873571 visual signal
