@@ -34,6 +34,27 @@ You can also specify the save destination using the flag ```-d```
 # Save the specific model on the destination ./dst
 python get_models.py -e hierarchy -s 918 -d ./dst
 ```
+### Label set generator and WordNet tools
+We provide the code to generate the label sets mentioned in the hierarchy experiments.  
+
+To generate the label sets yourself, you will need to download the python compatible WordNet corpus from https://wordnet.princeton.edu/wordnet/download/  
+For some python examples on how to use WordNet, refer to http://www.nltk.org/howto/wordnet.html
+
+We also include helper functions to easily manipulate wordnet tree in ```wordnet_tools.py```
+
+To run the script to generate label sets
+```
+python make_labels.py
+```
+
+You can also specify the experiment
+
+``` 
+# By default -e is set to all
+python make_labels.py -e up_down
+python make_labels.py -e down_up
+python make_labels.py -e all 
+```
 
 ### LMDB generation toolkit (coming soon)
 Training a network by passing in images sequentially often becomes a bottleneck in training.
