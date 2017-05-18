@@ -57,12 +57,12 @@ python make_labels.py -e down_up
 python make_labels.py -e all 
 ```
 
-### PASCAL experiments
+### PASCAL / ImageNet common classes
 Common classes shared between PASCAL and ImageNet can be found [here](./label_sets/pascal)
 
 ### LMDB generation toolkit (coming soon)
-We will soon provide simple tools to generate LMDB file for Caffe
+We will soon provide tools to generate LMDB file for Caffe
 
 ### Experiment Setup (coming soon)
-We will soon release helper code to setup experiment for arbitrary network models.  
+We will soon release helper code for setting up experiments for arbitrary networks.  
 ResNet-34 models for the experiments above will be released soon.
