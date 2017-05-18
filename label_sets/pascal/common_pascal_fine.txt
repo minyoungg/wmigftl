@@ -1,0 +1,22 @@
+# Common classes in PASCAL and ImageNet with ImageNet fine class mappinging
+
+'aeroplane': u'n02691156',
+'bicycle': u'n02834778',
+'bird': u'n01503061',
+'boat': u'n02858304',
+'bottle': u'n02876657',
+'bus': u'n02924116',
+'car': u'n02958343',
+'cat': u'n02121620',
+'chair': u'n03001627',
+'cow': u'n01887787',
+'diningtable': u'n03201208',
+'dog': u'n02084071',
+'horse': u'n02374451',
+'motorbike': u'n03769722',
+'person': u'n00007846',
+'pottedplant': u'n00017222',
+'sheep': u'n02411705',
+'sofa': u'n04256520',
+'train': u'n04468005',
+'tvmonitor': u'n03782006'
